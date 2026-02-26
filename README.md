@@ -1,4 +1,4 @@
-🧠 Cognitive Agentic RAG System
+# 🧠 Cognitive Agentic RAG System
 
 A Retrieval-Augmented Generation (RAG) based AI system that integrates document retrieval with large language model reasoning to generate context-aware, grounded responses.
 
